@@ -1,11 +1,4 @@
-<div style="display:flex">
-     <div style="flex:1;padding-right:5px;">
 Hi, my name is Darryl Anderson, and I provide technology advisement and design and development services to early and growth stage software companies. Based in Chicago, IL, I primarily work with companies in the local market, but can also work with remote companies.
-     </div>
-     <div style="flex:1;padding-left:5px;">
-          <img src="/content/images/2018/03/ProfilePhoto-round-1.png">
-     </div>
-</div>
 
 I've been building software products for 20+ years, across multiple domains including healthcare (genomics, clinical trials, medical records), transportation, knowledge management, and telecom.
 
@@ -13,10 +6,10 @@ From a technology perspective, I'm passionate about cloud architecture, continuo
 
 Learn more about me at the links below:
 
-<i class="fab fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/darryl-anderson) 
-<i class="fab fa-github"></i> [GitHub](https://github.com/darrylanderson)
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/DarrylAnderson_)
-<i class="fab fa-angellist"></i> [AngelList](https://angel.co/darryl-anderson)
+* [LinkedIn](https://linkedin.com/in/darryl-anderson) 
+* [GitHub](https://github.com/darrylanderson)
+* [Twitter](https://twitter.com/DarrylAnderson_)
+* [AngelList](https://angel.co/darryl-anderson)
 
 Email: <darryl@andersontech.consulting>
 
