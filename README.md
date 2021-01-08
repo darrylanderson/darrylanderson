@@ -1,6 +1,6 @@
 Hi, my name is Darryl Anderson, and I provide technology advisement and design and development services to early and growth stage software companies. Based in Chicago, IL, I primarily work with companies in the local market, but can also work with remote companies.
 
-I've been building software products for 20+ years, across multiple domains including healthcare (genomics, clinical trials, medical records), transportation, knowledge management, and telecom.
+I've been building software products for 20+ years, across multiple domains including healthcare (genomics, clinical trials, medical records), insurance, transportation, knowledge management, and telecom.
 
 From a technology perspective, I'm passionate about cloud architecture, continuous delivery, devops culture, and security. I believe that architecture should support the business, and that common architectural 'ilities' such as reliability, scalability, maintainability, security, and extensibility are best achieved through cloud delivery models. 
 
@@ -8,7 +8,6 @@ Learn more about me at the links below:
 
 * [LinkedIn](https://linkedin.com/in/darryl-anderson) 
 * [GitHub](https://github.com/darrylanderson)
-* [Twitter](https://twitter.com/DarrylAnderson_)
 * [AngelList](https://angel.co/darryl-anderson)
 
 Email: <darryl@andersontech.consulting>
@@ -24,7 +23,7 @@ Email: <darryl@andersontech.consulting>
 
 I have 20+ years of experience in building large scale enterprise web applications.
 
-I currently serve as Principal Architect for Clearcover, a hyper growth insuretech startup where I lead the Architecture, Data Engineering, and SRE/Cloud Ops teams.
+I currently serve as Principal Architect for Clearcover, a hyper growth insuretech startup where I lead the Architecture teams.
 
 Prior to joining Clearcover, I was the co-founder of ChainFront, a blockchain services company. 
 
