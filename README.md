@@ -10,8 +10,6 @@ Learn more about me at the links below:
 * [GitHub](https://github.com/darrylanderson)
 * [AngelList](https://angel.co/darryl-anderson)
 
-Email: <darryl@andersontech.consulting>
-
 ## Services
 
 * Cloud architecture and devops advisory engagements.
