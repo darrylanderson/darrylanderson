@@ -7,6 +7,9 @@ I think we're second cousins and I'd like to say hi.
 So I'm out in the burbs at my parents' house a few weeks ago and I ask my dad about his dad.  We get to talking and he mentions his cousin Clifford.
 Apparently there was a falling out decades ago between my aunt Carol and Clifford's wife Clara and since then there's been little if any contact between the cousins.
 I was curious so I did a little digging on the web, found some clues that led me to you.  If I followed the clues correctly then Clifford was your dad.
+My dad is Arnold.  His brother is Jim.  Jim's wife is Carol.  They also had another brother named Allen but he passed away in the 90s.  
+Dad mentioned that Clifford had a sister but that she passed away from cancer at just 26.  Clifford's dad was David and my dad's dad was Daniel.  They were brothers.  My mom has a short autobiography written by Daniel and David's mother (I think). 
+That's about all I know.  I don't know any of the details of the falling out between Carol and Clara other than it happened a looooong time ago.
 This past weekend we drove out to Elk Grove for a family reunion (Mom's side of the family).  Big family on that side - mom has over thirty first cousins.
 It got me thinking more about family so I decided to reach out and say hello.  
 
