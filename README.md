@@ -1,6 +1,6 @@
 Hi, my name is Darryl Anderson, and I provide technology advisement and design and development services to early and growth stage software companies. Based in Chicago, IL, I primarily work with companies in the local market, but can also work with remote companies.
 
-I've been building software products for 20+ years, across multiple domains including healthcare (genomics, clinical trials, medical records), insurance, transportation, knowledge management, and telecom.
+I've been building software products for 20+ years, across multiple domains including payments, healthcare (genomics, clinical trials, medical records), insurance, transportation, knowledge management, and telecom.
 
 From a technology perspective, I'm passionate about cloud architecture, continuous delivery, devops culture, and security. I believe that architecture should support the business, and that common architectural 'ilities' such as reliability, scalability, maintainability, security, and extensibility are best achieved through cloud delivery models. 
 
