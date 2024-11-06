@@ -6,6 +6,7 @@ From a technology perspective, I'm passionate about cloud architecture, continuo
 
 Learn more about me at the links below:
 
+* [My (somewhat stale) website](https://darrylanderson.dev)
 * [LinkedIn](https://linkedin.com/in/darryl-anderson) 
 * [GitHub](https://github.com/darrylanderson)
 * [BlueSky](https://bsky.app/profile/darrylanderson.dev)
